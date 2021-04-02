@@ -1,3 +1,3 @@
 # todoactivity
-![](implicitintent.gif)
-![](implicitintent.png)
+![](implicitintents.gif)
+![](implicitintents.png)
